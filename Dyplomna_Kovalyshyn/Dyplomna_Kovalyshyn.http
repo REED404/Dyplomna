@@ -1,0 +1,6 @@
+@Dyplomna_Kovalyshyn_HostAddress = http://localhost:5207
+
+GET {{Dyplomna_Kovalyshyn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
